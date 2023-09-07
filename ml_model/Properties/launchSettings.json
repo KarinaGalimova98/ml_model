@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ml_model": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
